@@ -1,5 +1,4 @@
 ##Fitness Guide Project
-
 Welcome to the Fitness Guide Project! This project is designed to provide comprehensive fitness guidance, including workout routines, nutrition plans, and wellness tips to help you achieve your health and fitness goals.
 
 ##Overview
