@@ -1,7 +1,7 @@
-##Fitness Guide Project
+<h1>Fitness Guide Project</h1>
 Welcome to the Fitness Guide Project! This project is designed to provide comprehensive fitness guidance, including workout routines, nutrition plans, and wellness tips to help you achieve your health and fitness goals.
 
-##Overview
+<h2>Overview</h2>
 The Fitness Guide Project aims to create a one-stop resource for fitness enthusiasts of all levels. Whether you're a beginner looking to get started or an experienced athlete seeking advanced tips, our guide covers all aspects of fitness, including:
 
 Strength Training
@@ -11,7 +11,7 @@ Nutrition and Meal Plans
 Mental Wellness and Mindfulness
 
 
-##Features
+<h3>Features</h3>
 Workout Routines: Detailed workout plans for various goals (e.g., weight loss, muscle gain, endurance).
 Nutrition Plans: Balanced meal plans and nutritional advice.
 Exercise Demonstrations: Videos and descriptions of exercises to ensure proper form and technique.
