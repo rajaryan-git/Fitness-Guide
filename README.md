@@ -14,7 +14,7 @@ Nutrition and Meal Plans
 Mental Wellness and Mindfulness
 
 
-<h3>🌟Features</h3>
+<h3>🌟Features </h3>
 Workout Routines: Detailed workout plans for various goals (e.g., weight loss, muscle gain, endurance).
 Nutrition Plans: Balanced meal plans and nutritional advice.
 Exercise Demonstrations: Videos and descriptions of exercises to ensure proper form and technique.
