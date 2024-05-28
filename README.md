@@ -5,7 +5,7 @@
 Welcome to the Fitness Guide Project! This project is designed to provide comprehensive fitness guidance, including workout routines, nutrition plans, and wellness tips to help you achieve your health and fitness goals.
 
 <h2>⚡️Overview</h2>
-The Fitness Guide Project aims to create a one-stop resource for fitness enthusiasts of all levels. Whether you're a beginner looking to get started or an experienced athlete seeking advanced tips, our guide covers all aspects of fitness, including:
+The Fitness Guide Project aims to create a one-stop resource for fitness enthusiasts of all levels. Whether you're a beginner looking to get started or an experienced athlete seeking advanced tips, our guide covers all aspects of fitness, including :
 
 Strength Training
 Cardio Workouts
